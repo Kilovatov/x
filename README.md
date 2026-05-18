@@ -1,5 +1,7 @@
 # Multiplication Practice
 
+🔗 **Live:** [https://kilovatov.github.io/x](https://kilovatov.github.io/x)
+
 A simple, browser-based multiplication table quiz built with plain HTML, CSS, and JavaScript — no dependencies or build step required.
 
 ## Features
